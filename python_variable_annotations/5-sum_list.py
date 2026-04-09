@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Summation helper for a list of floats."""
 
 from typing import List

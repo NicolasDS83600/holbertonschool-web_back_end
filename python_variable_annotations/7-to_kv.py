@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Convert a key and numeric value into a tuple."""
 
 from typing import Union

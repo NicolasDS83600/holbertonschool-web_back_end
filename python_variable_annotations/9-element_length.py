@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Provide lengths for each string in a list."""
 from typing import List, Tuple
 
