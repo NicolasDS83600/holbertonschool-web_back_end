@@ -55,7 +55,7 @@ class Server:
             if current_index in dataset:
                 data.append(dataset[current_index])
             current_index += 1
-        
+
         return {
             "index": index,
             "next_index": current_index,
