@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Log statistics analysis for Nginx logs in MongoDB."""
 
 from pymongo import MongoClient
